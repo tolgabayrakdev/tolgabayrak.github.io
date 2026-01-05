@@ -7,20 +7,22 @@ description: >
   teknik yazılar ve deneyimler.
 
 url: "https://tolgabayrakdev.github.io"
+baseurl: ""        # user site → boş bırak
+permalink: /blog/:title/   # blog yazıları için temiz URL
 
 # Dil ve yerelleştirme
 lang: tr
 timezone: Europe/Istanbul
 
 # Tema
-theme: minima
+theme: jekyll-theme-slate
 show_excerpts: true
 
 minima:
   skin: dark
   date_format: "%d %B %Y"
   social_links:
-    github: tolgabayrak
+    github: tolgabayrakdev
     linkedin: tolgabayrak
 
 # SEO (GitHub Pages destekli)
