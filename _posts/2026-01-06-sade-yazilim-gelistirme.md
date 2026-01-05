@@ -3,6 +3,7 @@ layout: post
 title: "Sade Yazılım Geliştirme Neden Önemlidir?"
 description: "Yazılım projelerinde sade çözümler üretmenin bakım, ölçeklenebilirlik ve ekip içi iletişim üzerindeki etkileri."
 categories: yazilim
+date: 2026-01-06
 ---
 
 Yazılım projeleri zamanla karmaşıklaşır.  

@@ -15,8 +15,12 @@ lang: tr
 timezone: Europe/Istanbul
 
 # Tema
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 show_excerpts: true
+
+# Blog ayarları
+paginate: 5
+paginate_path: "/blog/page:num/"
 
 # SEO (GitHub Pages destekli)
 plugins:
