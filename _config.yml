@@ -6,8 +6,7 @@ description: >
   sistemler ve sürdürülebilir yazılım mimarileri üzerine
   teknik yazılar ve deneyimler.
 
-url: "https://tolgabayrak.github.io"
-baseurl: "tolgabayrak.github.io"
+url: "https://tolgabayrakdev.github.io"
 
 # Dil ve yerelleştirme
 lang: tr
