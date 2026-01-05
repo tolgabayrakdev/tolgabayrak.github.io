@@ -7,7 +7,7 @@ description: >
   teknik yazılar ve deneyimler.
 
 url: "https://tolgabayrak.github.io"
-baseurl: ""
+baseurl: "tolgabayrak.github.io"
 
 # Dil ve yerelleştirme
 lang: tr
